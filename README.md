@@ -13,7 +13,7 @@
     I'm a backend developer who constantly seeks out innovative solutions to everyday problems. <br>
     I'm a curious and hardworking man. <br>
     I love learning, coding, system and new challenge.<br>
-    In my two years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. <br>
+    In my various years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. <br>
   </em>  
 </p>
 
